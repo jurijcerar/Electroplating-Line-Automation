@@ -1,0 +1,18 @@
+þÿÿÿÈ###id###VisulizationRootBrowsableId###TargetIdAcknowledgementGroupText-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomainNameStationNamePartnerNameNodeNameDisplayNameAcknowledgementModelIdEmailAddressAcknowledgedText
+ComingText	GoingTextCommonAlarmClass	CycleUnit	CycleTimeTextCommentNumber	ShortName
+LogoutTimeAcknowledgementBitAddress
+AlarmClass
+TriggerTag	AlarmTextPlcAcknowledgementBitAddressTriggerBitAddress###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentSCL CodeInstance DBDatatypeAddressValueNetwork titleLADFBD Code	BackColor	GridColorTemplate	FunctionsBackFillStyleBorderBackColorBorderColor	EdgeStyleFlashingFont	ForeColorHorizontalAlignmentLayerTextOrientationVerticalAlignmentAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorCaptionColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterText
+FocusColorGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewTypeAboveUpperLimitColorBelowLowerLimitColorEvenRowBackColorModeSelectBackColorSelectForeColorTextListTextOffTextOnPropertyNameTagValueForPropertyTagPageAdaptPicture
+AutoSizingPictureTransparentColorDataTypeTagAddressPanelInfoAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCodingPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
+StartValue
+DataFormatFormatPatternUnitFirstGradientColorHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizingSecondGradientColorVerticalPictureAlignmentUITypeEditorBitPositionUITypeEditorTagExpressionRangeFromToCaptionColorCaptionFontCaptionTextHelpTextInnerBackColorOffInnerBackColorOnSwitchOrientationAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarColorBarOrientationBorderBrightColor3DBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3D
+LabelColorPositionFontScalePositionThumbBackColor	TickStyleAddressAccessMode
+Connection	PictureOn
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityAuthorFamilyUser-defined ID###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreNetwork commentBarEdgeStyle
+ScaleColorSegmentColoringWarningLowerLimitColorWarningUpperLimitColor

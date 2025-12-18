@@ -1,0 +1,26 @@
+CM CANopen
+================================================================
+File: HSP_V19_0079_001_S71200_CANopen_1.0.isp19
+Date: 204-01-11 19:32
+================================================================
+
+This is the TIA V19 catalogue file for the module CM CANopen.
+
+HMS Order number: 021620-B
+
+ATTENTION - THIS IS A BETA VERSION
+The file cannot uninstalled in TIA V19!
+
+Known problems:
+- Installation works only ok when TIA is set to English language
+- TIA Openness did not work
+
+
+Checksum:
+To compare the checksum call in command line: showchecksum.bat
+
+================================================================
+2024-09-10
+pewu@hms.se
+www.ixxat.com
+www.hms-networks.de

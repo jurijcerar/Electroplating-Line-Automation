@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="CM CANopen Function Blocks V12 Ver. 1.0.0_V13_SP1" typeText="Type" messageText="Message" timeText="Time">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="12/3/2019 12:00:43 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Upgrade started" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="12/3/2019 12:00:43 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Reading information from previous project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="12/3/2019 12:00:47 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="12/3/2019 12:00:49 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:53 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:00:54 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:01 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:01 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:01 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:01 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:01 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:01 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:02 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:03 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:03 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:04 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:04 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:04 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:04 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:04 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:04 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:04 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:04 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="12/3/2019 12:01:04 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="12/3/2019 12:01:06 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="12/3/2019 12:01:06 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Saving the upgraded project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabLibrarySucceeded" MessageClass="Success" Timestamp="12/3/2019 12:01:06 PM">
+    <Number ServiceNumber="80" MessageNumber="32" />
+    <Text FeedbackText="Library 'CM CANopen Function Blocks V12 Ver. 1.0.0' was successfully upgraded and saved as library 'CM CANopen Function Blocks V12 Ver. 1.0.0_V13_SP1'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>

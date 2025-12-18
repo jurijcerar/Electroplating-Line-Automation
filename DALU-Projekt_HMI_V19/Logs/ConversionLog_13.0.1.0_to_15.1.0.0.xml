@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="DALU-Projekt_V15.1" typeText="Type" messageText="Message" timeText="Time">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="9/2/2019 2:32:18 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Upgrade started" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:32:24 PM" Debug="false">
+    <Text />
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:32:30 PM" Debug="false">
+    <Text />
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:32:31 PM" Debug="false">
+    <Text>Reorganization succeed!</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="9/2/2019 2:32:32 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair lost+found objects" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:32:32 PM" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="9/2/2019 2:32:33 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair missing bidirectional links" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:32:33 PM" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="9/2/2019 2:33:07 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The cross-reference information is being converted." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="9/2/2019 2:33:08 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The cross-reference information was created successfully." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="9/2/2019 2:33:08 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversion of the cross-reference information is finished." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'Iecpl' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'Iecpl_BlockInterface_V13.0.1' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'Iecpl_V12' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'S7FP' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'S7FP_V12' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.CommonServices.Library.V12SP1' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.DomainModel.MyPC' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.DomainModel.Online' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.HwConfiguration.Security.Model' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.SystemDiagnosis.Model.Lifelist' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.Tech.SMC' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Meta Package 'Siemens.TechTrace.Device.Plc.Model' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CM.AS-Interface.MDD_3RK7_243_2AA30_0XB0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.CompactAB.MDD_3RK2_200_0CQ20_0AA3_V10_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_200_0CQ20_0AA3_V10_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_400_1DQ01_0AA3_V10_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_107_2BQ40_0AA3_V10_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_207_2BQ40_0AA3_V10_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Modular.MDD_3SF5_500_0BC_V10_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_207_1BQ40_0AA3_V10_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Universal.MDD_AS_i_Standard_Slave_Universal_V10_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CP.PROFIBUS.MDD_6GK7243-5DX30-0XE0_1.0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.TechTrace.Device.Plc.Model' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Tech.SMC' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Safety.Model_V12' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl_V12' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CP.PROFIBUS.MDD_6GK7243-5DX30-0XE0_1.0_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CM.AS-Interface.MDD_3RK7_243_2AA30_0XB0_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CPU.CPU_1214C.MDD_6ES7214-1AE30-0XB0_2.2_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.CompactAB.MDD_3RK2_200_0CQ20_0AA3_V10_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_207_1BQ40_0AA3_V10_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Modular.MDD_3SF5_500_0BC_V10_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_207_2BQ40_0AA3_V10_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Universal.MDD_AS_i_Standard_Slave_Universal_V10_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_107_2BQ40_0AA3_V10_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_400_1DQ01_0AA3_V10_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_200_0CQ20_0AA3_V10_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7BUpgradeV13.0.1.0.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl_V13.0.1' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7BSW.V13.0.1.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7BUpgradeV13.0.0.0.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7BUpgradeV12_1.0.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.CompactAB.MDD_3RK2_200_0CQ20_0AA3_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_200_0CD00_0AA2_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_207_1BQ40_0AA3_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_207_2BQ40_0AA3_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RG9_001_0AH00_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RG9_001_0AA00_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Modular.MDD_3SF5_500_0BC_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_400_1DQ01_0AA3_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_200_0CQ20_0AA3_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_107_1BQ40_0AA3_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Compact.MDD_3RK1_107_2BQ40_0AA3_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.Universal.MDD_AS_i_Standard_Slave_Universal_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.ASi.CompactAB.MDD_3RK2_400_1DQ00_0AA3_V10_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CP.PROFIBUS.MDD_6GK7243-5DX30-0XE0_1.0_11.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CP.Submodules.ASI.MDD_3RK7243-2AA30-0XB0-CPcommon_11.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CP.Submodules.ASI.MDD_3RK7243-2AA30-0XB0-IOinterface_11.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CM.AS-Interface.MDD_3RK7_243_2AA30_0XB0_11.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CP.Submodules.ASI.MDD_3RK7243-2AA30-0XB0-CPproxy_11.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CPU.CPU_1214C.MDD_6ES7214-1AE30-0XB0_2.2_11.0.2' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'HW.S71200.CPU.CPU_12XX.MDD_6ES72XX_XXXXX_XXXX_2.1_11.0.1' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.AlarmServices' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7BSW.V13.0.1.1.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7BSW.V12.0.1.0.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Basic:14.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.SinemaEBasic:14.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:11.00.02.04' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Professional:13.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.SinemaEBasic:13.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:13.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:12.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:13.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:13.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:12.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:12.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:11.00.02.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:12.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'HW.GSD.siem0024.gsd.DEVICE_1.0.0.Product:11.0.0.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Advanced:11.00.02.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.HSP.HW.S71200.CP.CP1243-2_V1.0:01.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:11.00.02.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:11.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:11.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:11.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Comfort:11.00.02.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="9/2/2019 2:33:12 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Basic:11.00.02.00' was deleted</Text>
+  </Details>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="9/2/2019 2:33:12 PM">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="Project 'C:\Users\detz\Downloads\DALU-Projekt\DALU-Projekt\System\PEData.plf' was successfully upgraded and saved as project 'C:\Users\detz\Downloads\DALU-Projekt\DALU-Projekt_V15.1\System\PEData.plf'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>
