@@ -1,0 +1,21 @@
+# TIA Portal intermediate/build files
+DALU-Projekt_HMI_V19/IM/
+DALU-Projekt_HMI_V19/System/
+DALU-Projekt_HMI_V19/Vci/
+DALU-Projekt_HMI_V19/XRef/
+DALU-Projekt_HMI_V19/Logs/
+DALU-Projekt_HMI_V19/Backups/
+DALU-Projekt_HMI_V19/*.backup/
+DALU-Projekt_HMI_V19/config.cmcdc
+DALU-Projekt_HMI_V19/showchecksum.bat
+**/*_Zone.Identifier_*
+
+# STM32 build outputs
+canopennode/STM32/output/*.bin
+canopennode/STM32/output/*.elf
+canopennode/STM32/output/*.map
+canopennode/STM32/output/*.lst
+canopennode/STM32/src/**/*.o
+
+# Flash tool binary (Windows exe)
+canopennode/STM32/flash/stm32flash/stm32flash.exe
